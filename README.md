@@ -13,3 +13,9 @@ Welcome to the SQL Practice repository! This repository is your go-to resource f
 
 **SQL Syntax:** Get a quick reference for SQL syntax and common commands. You'll find concise explanations and practical examples.
 
+**Contribution**
+
+I encourage contributions to enhance the content and exercises. If you have SQL exercises, additional examples, or improvements to suggest, please don't hesitate to get involved. Let's make SQL learning and practice accessible to all!
+
+Happy SQL coding and learning!
+
